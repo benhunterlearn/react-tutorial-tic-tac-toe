@@ -2,6 +2,8 @@
 
 https://reactjs.org/tutorial/tutorial.html
 
+Also converted to functional components using hooks: setState().
+
 ---
 
 # Getting Started with Create React App
